@@ -17,16 +17,16 @@ Learn everything you need to about the subject of this `Udemy` project.
 ```
 Section: 0
 0 / 3
-[ ] 1. Introduction 0:48
-[ ] 2. Course Work Overview 2:14
-[ ] 3. Development Overview 0:00
+[x] 1. Introduction 0:48
+[x] 2. Course Work Overview 2:14
+[x] 3. Development Overview 0:00
 
 Section: 1
 0 / 10
 React with Rails
-[ ] Quiz 1: Rails Basics 0:00
-[ ] 4. Getting Started with Alpha Blog 7:54
-[ ] 5. Getting Started with Alpha Blog - Text Directions and Code 0:00
+[x] Quiz 1: Rails Basics 0:00
+[x] 4. Getting Started with Alpha Blog 7:54
+[x] 5. Getting Started with Alpha Blog - Text Directions and Code 0:00
 [ ] 6. Installing Webpacker and React 9:53
 [ ] 7. Installing Webpacker and React - Text Directions and Code 0:00
 [ ] Quiz 2: React on Rails Intro 0:00
