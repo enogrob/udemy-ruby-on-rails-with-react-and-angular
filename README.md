@@ -27,9 +27,9 @@ React with Rails
 [x] Quiz 1: Rails Basics 0:00
 [x] 4. Getting Started with Alpha Blog 7:54
 [x] 5. Getting Started with Alpha Blog - Text Directions and Code 0:00
-[ ] 6. Installing Webpacker and React 9:53
-[ ] 7. Installing Webpacker and React - Text Directions and Code 0:00
-[ ] Quiz 2: React on Rails Intro 0:00
+[x] 6. Installing Webpacker and React 9:53
+[x] 7. Installing Webpacker and React - Text Directions and Code 0:00
+[x] Quiz 2: React on Rails Intro 0:00
 [ ] 8. React-Rails and Pushing to GitHub 12:29
 [ ] 9. React-Rails and Pushing to GitHub - Text Directions and Code 0:00
 [ ] 10. Webpacker, React, and Yarn - Layout and Configuration 10:45
